@@ -1,0 +1,21 @@
+.info-loteriaWrapper {
+    width: 20%;
+    max-width: 430px;
+    padding: 20px;
+    margin: 10px 0 0 40px;
+}
+
+
+.info-loteriaWrapper h1 {
+    display: inline;
+    margin: 0 10px;
+    position: absolute;
+    margin-top: -5px;
+    font-size: 30px;
+}
+
+.info-loteriaWrapper p {
+    color: #4c556c;
+    margin-top: 10px;
+}
+

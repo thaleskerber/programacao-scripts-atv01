@@ -1,0 +1,74 @@
+.resultadosMegasena{
+    background-color: #209869;
+    padding: 15px;
+    width: 22px;
+    height: 22px;
+    border-radius: 50%;
+    color: #fff;
+    font-size: 20px;
+    text-align: center;
+    margin: 45px 15px 0 50px;
+}
+
+.megasenaWrapper {
+    display: flex;
+}
+
+.megasenaContainer{
+    display: flex;
+    flex-direction: column;
+}
+
+.megasenaContainer h1{
+    margin: 15px 0 0 50px;
+    color: #0066b3;
+}
+
+.megasenaContainer p {
+    color: #4c556c;
+    margin-left: 55px;
+}
+
+.resultadosLotofacil{
+    color: #930089;
+    font-size: 40px;
+    text-align: center;
+    padding: 20px 50px;
+}
+
+.bordaResultadosLotofacil {
+    border-bottom: 1px solid #ddd;
+}
+
+.lotofacilWrapper {
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.lotofacilContainer{
+    display: flex;
+    flex-direction: column;
+    width: 800px;
+    
+}
+
+.lotofacilContainer h1{
+    margin: 5px 0 0 50px;
+    color: #0066b3;
+}
+
+.lotofacilContainer p {
+    color: #4c556c;
+    margin-left: 50px;
+
+}
+
+.lotofacilContainer hr {
+    color: #ddd;
+
+}
+
+
+
+
+
