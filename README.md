@@ -6,6 +6,8 @@
 ## 🚀 Objetivo
 O objetivo dessa atividade é a criação de uma página para a exibição dos resultados dos sorteios das loterias Megasena e Lotofácil da Caixa Econômica Federal, utilizando componentes feitos em React.
 
+---
+
 ## 👷🏻‍♀️ Setup
 Para executar a aplicação siga os passos abaixo:
 
@@ -29,3 +31,4 @@ $ npm start
 ```
 <br/>
 
+---
