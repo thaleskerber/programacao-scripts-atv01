@@ -12,7 +12,7 @@ const ResultadosLoteria = (props: any) => {
 
         if (loteria.quantidadeGanhadores > 0) {
             const quantidadeGanhadores = loteria.quantidadeGanhadores
-            return `${quantidadeGanhadores} GANHADOR${quantidadeGanhadores > 1 ? 's' : ''}`
+            return `${quantidadeGanhadores} GANHADOR${quantidadeGanhadores > 1 ? 'ES' : ''}`
         } else{
             return "ACUMULOU!"
         }
